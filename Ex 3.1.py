@@ -15,7 +15,6 @@ except:
     r=0
 if h<=40:
     pay = h*r
-    
 elif h>40:
     bal=h-40
     pay1=40*r
